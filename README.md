@@ -1,59 +1,32 @@
-# Shadcn/UI Landing Page Template
+# Education Platform Landing Page
 
-## <a href="https://ui.shadcn.com/" target="_blank">ShadcnUI</a> + <a href="https://react.dev/" target="_blank">React</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>.
+Welcome to the landing page repository for our full-stack education platform project! This landing page serves as the initial entry point for visitors and provides essential information about our platform.
 
-![shadch-landing-page](https://github.com/leoMirandaa/shadcn-landing-page/assets/61714687/3ba7b51f-9589-4541-800a-5ab7cecad1b5)
+## Overview
 
-Build your React landing page effortlessly with the required sections to your project. <a href="https://shadcn-landing-page.vercel.app/" target="_blank">Live Demo</a>
-
-## Sections
-
-- [x] Navbar
-- [x] Sidebar(mobile)
-- [x] Hero
-- [x] Sponsors
-- [x] About
-- [x] Stats
-- [x] How It Works
-- [x] Features
-- [x] Services
-- [x] Call-to-Action (CTA)
-- [x] Testimonials
-- [x] Team
-- [x] Pricing
-- [x] Newsletter
-- [x] Frequently Asked Questions(FAQ)
-- [x] Footer
+Our education platform aims to revolutionize online learning by providing a comprehensive suite of courses, interactive content, and seamless user experience. This landing page acts as a gateway to showcase the key features and benefits of our platform.
 
 ## Features
 
-- [x] Fully Responsive Design
-- [x] User Friendly Navigation
-- [x] Dark Mode
-- [x] Metatags
+- **Sleek Design:** A visually appealing and responsive design ensures a pleasant browsing experience across devices.
+- **Clear Messaging:** Concise and compelling content highlights the unique selling points of our platform.
+- **Call-to-Action:** Prominent call-to-action buttons encourage visitors to explore our courses and sign up.
+- **Optimized Performance:** Fast loading times and optimized assets enhance user engagement.
+- **SEO Friendly:** Implementing best practices for search engine optimization to increase visibility and attract organic traffic.
 
-## How to install
+## Technologies Used
 
-1. Clone this repositoy:
+- HTML5
+- CSS3 (with SCSS)
+- JavaScript (including libraries like jQuery, if applicable)
+- Responsive Design Techniques (such as Flexbox or CSS Grid)
+- Any additional tools or libraries as needed
 
-```bash
-git clone https://github.com/leoMirandaa/shadcn-landing-page.git
-```
+## Getting Started
 
-2. Go into project
+To view the landing page locally or make changes, follow these steps:
 
-```bash
-cd shadcn-landing-page
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Run project
-
-```bash
-npm run dev
-```
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository-url>
+   ```
