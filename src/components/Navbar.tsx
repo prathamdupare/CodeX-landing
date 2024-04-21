@@ -25,6 +25,10 @@ interface RouteProps {
 
 const routeList: RouteProps[] = [
   {
+    href: "https://courses.codex.fosspage.com/",
+    label: "Courses",
+  },
+  {
     href: "#features",
     label: "Features",
   },
@@ -87,7 +91,7 @@ export const Navbar = () => {
                     </a>
                   ))}
                   <a
-                    href="https://github.com/leoMirandaa/shadcn-landing-page.git"
+                    href="https://github.com/prathamdupare"
                     target="_blank"
                     className={`w-[110px] border ${buttonVariants({
                       variant: "secondary",
