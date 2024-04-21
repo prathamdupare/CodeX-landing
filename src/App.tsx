@@ -26,7 +26,6 @@ function App() {
       <Cta />
       <Testimonials />
       <Team />
-      <Pricing />
       <Newsletter />
       <FAQ />
       <Footer />
