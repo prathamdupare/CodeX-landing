@@ -3,10 +3,7 @@ import pilot from "../assets/pilot.png";
 
 export const About = () => {
   return (
-    <section
-      id="about"
-      className="container py-24 sm:py-32"
-    >
+    <section id="about" className="container py-24 sm:py-32">
       <div className="bg-muted/50 border rounded-lg py-12">
         <div className="px-6 flex flex-col-reverse md:flex-row gap-8 md:gap-12">
           <img
@@ -23,11 +20,12 @@ export const About = () => {
                 Company
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit
-                amet, consectetur adipiscing elit.
+                Welcome to AcademiaX, your premier destination for web
+                development courses and resources. We're dedicated to making
+                quality coding education accessible to students worldwide. Join
+                us to explore curated courses and interactive content,
+                empowering you to master web development and unlock your full
+                potential.
               </p>
             </div>
 

@@ -1,6 +1,6 @@
 # Education Platform Landing Page
 
-Welcome to the landing page repository for our full-stack education platform project! This landing page serves as the initial entry point for visitors and provides essential information about our platform.
+Welcome to the landing page repository for AcademiaX full-stack education platform project! This landing page serves as the initial entry point for visitors and provides essential information about the platform.
 
 ## Overview
 
@@ -16,8 +16,9 @@ Our education platform aims to revolutionize online learning by providing a comp
 
 ## Technologies Used
 
-- HTML5
-- CSS3 (with SCSS)
+- Typescript
+- Next.js
+- Tailwind CSS
 - JavaScript (including libraries like jQuery, if applicable)
 - Responsive Design Techniques (such as Flexbox or CSS Grid)
 - Any additional tools or libraries as needed

@@ -9,7 +9,6 @@ import { Navbar } from "./components/Navbar";
 import { Newsletter } from "./components/Newsletter";
 import { Pricing } from "./components/Pricing";
 import { ScrollToTop } from "./components/ScrollToTop";
-import { Services } from "./components/Services";
 import { Sponsors } from "./components/Sponsors";
 import { Team } from "./components/Team";
 import { Testimonials } from "./components/Testimonials";
@@ -24,7 +23,6 @@ function App() {
       <About />
       <HowItWorks />
       <Features />
-      <Services />
       <Cta />
       <Testimonials />
       <Team />

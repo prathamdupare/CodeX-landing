@@ -18,21 +18,21 @@ interface FeatureProps {
 
 const features: FeatureProps[] = [
   {
-    title: "Responsive Design",
+    title: "Comprehensive Coding Courses",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "Discover our curated selection of coding courses, tailored to provide students with comprehensive resources for mastering web development.",
     image: image4,
   },
   {
-    title: "Intuitive user interface",
+    title: "Intuitive Learning Experience",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "Navigate through our platform with ease, thanks to our intuitive user interface designed to enhance the learning journey.",
     image: image3,
   },
   {
-    title: "AI-Powered insights",
+    title: "Personalized Learning Paths",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "Unlock personalized learning paths tailored to your skills and goals, powered by AI insights to maximize your learning potential.",
     image: image,
   },
 ];
@@ -51,10 +51,7 @@ const featureList: string[] = [
 
 export const Features = () => {
   return (
-    <section
-      id="features"
-      className="container py-24 sm:py-32 space-y-8"
-    >
+    <section id="features" className="container py-24 sm:py-32 space-y-8">
       <h2 className="text-3xl lg:text-4xl font-bold md:text-center">
         Many{" "}
         <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
@@ -65,10 +62,7 @@ export const Features = () => {
       <div className="flex flex-wrap md:justify-center gap-4">
         {featureList.map((feature: string) => (
           <div key={feature}>
-            <Badge
-              variant="secondary"
-              className="text-sm"
-            >
+            <Badge variant="secondary" className="text-sm">
               {feature}
             </Badge>
           </div>
