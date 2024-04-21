@@ -20,7 +20,7 @@ export const About = () => {
                 Company
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
-                Welcome to AcademiaX, your premier destination for web
+                Welcome to CodeX, your premier destination for web
                 development courses and resources. We're dedicated to making
                 quality coding education accessible to students worldwide. Join
                 us to explore curated courses and interactive content,

@@ -51,7 +51,7 @@ export const Navbar = () => {
           <NavigationMenuItem className="font-bold flex">
             <a href="/" className="ml-2 font-bold text-xl flex">
               <LogoIcon />
-              AcademiaX
+              CodeX
             </a>
           </NavigationMenuItem>
 

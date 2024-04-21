@@ -13,32 +13,32 @@ interface FAQProps {
 
 const FAQList: FAQProps[] = [
   {
-    question: "Is AcademiaX free to use?",
-    answer: "Yes, AcademiaX is completely free for all users.",
+    question: "Is CodeX free to use?",
+    answer: "Yes, CodeX is completely free for all users.",
     value: "item-1",
   },
   {
-    question: "What programming languages are taught on AcademiaX?",
+    question: "What programming languages are taught on CodeX?",
     answer:
-      "AcademiaX offers courses in a variety of programming languages, including HTML, CSS, JavaScript, Python, and more.",
+      "CodeX offers courses in a variety of programming languages, including HTML, CSS, JavaScript, Python, and more.",
     value: "item-2",
   },
   {
-    question: "How do I enroll in a course on AcademiaX?",
+    question: "How do I enroll in a course on CodeX?",
     answer:
-      "To enroll in a course on AcademiaX, simply sign up for an account, browse our course catalog, and click 'Enroll' on the course you're interested in.",
+      "To enroll in a course on CodeX, simply sign up for an account, browse our course catalog, and click 'Enroll' on the course you're interested in.",
     value: "item-3",
   },
   {
     question: "Are there any prerequisites for the courses?",
     answer:
-      "Most courses on AcademiaX do not have prerequisites, but some advanced courses may require prior knowledge.",
+      "Most courses on CodeX do not have prerequisites, but some advanced courses may require prior knowledge.",
     value: "item-4",
   },
   {
-    question: "Can I access AcademiaX on my mobile device?",
+    question: "Can I access CodeX on my mobile device?",
     answer:
-      "Yes, AcademiaX is fully responsive and can be accessed on any device, including smartphones and tablets.",
+      "Yes, CodeX is fully responsive and can be accessed on any device, including smartphones and tablets.",
     value: "item-5",
   },
 ];

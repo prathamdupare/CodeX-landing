@@ -10,7 +10,7 @@ export const Hero = () => {
         <main className="text-5xl md:text-6xl font-bold">
           <h1 className="inline">
             <span className="inline bg-gradient-to-r from-[#F596D3]  to-[#D247BF] text-transparent bg-clip-text">
-              AcademiaX
+              CodeX
             </span>{" "}
             Empowering Learners
           </h1>{" "}
@@ -22,7 +22,7 @@ export const Hero = () => {
         </main>
 
         <p className="text-xl text-muted-foreground md:w-10/12 mx-auto lg:mx-0">
-          Unlock your potential with AcademiaX. Discover top-notch solutions
+          Unlock your potential with CodexX. Discover top-notch solutions
           designed for you. Stay ahead with cutting-edge tech, personalized
           support, and unmatched quality. Ready to elevate your experience?
           Explore now.

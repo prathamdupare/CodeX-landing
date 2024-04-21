@@ -9,7 +9,7 @@ export const Footer = () => {
         <div className="col-span-full xl:col-span-2">
           <a href="/" className="font-bold text-xl flex">
             <LogoIcon />
-            AcademiaX
+            CodeX
           </a>
         </div>
 
@@ -17,7 +17,7 @@ export const Footer = () => {
           <h3 className="font-bold text-lg">Follow US</h3>
           <div>
             <a
-              href="https://github.com/prathamdupare/AcademiaX"
+              href="https://github.com/prathamdupare/CodeX"
               className="opacity-60 hover:opacity-100"
             >
               Github

@@ -27,28 +27,28 @@ const testimonials: TestimonialProps[] = [
     name: "Michael Johnson",
     userName: "@michael_johnson",
     comment:
-      "I can't believe how much I've grown as a developer since joining AcademiaX. Highly recommended for anyone serious about coding!",
+      "I can't believe how much I've grown as a developer since joining CodeX. Highly recommended for anyone serious about coding!",
   },
   {
     image: "https://example.com/avatar3.png",
     name: "Sophia Lee",
     userName: "@sophia_lee",
     comment:
-      "The instructors at AcademiaX are top-notch. Their teaching style is engaging and easy to follow, making learning enjoyable.",
+      "The instructors at CodeX are top-notch. Their teaching style is engaging and easy to follow, making learning enjoyable.",
   },
   {
     image: "https://example.com/avatar4.png",
     name: "Daniel Brown",
     userName: "@daniel_brown",
     comment:
-      "I've tried other coding platforms before, but AcademiaX stands out for its quality content and supportive community. 5 stars!",
+      "I've tried other coding platforms before, but CodeX stands out for its quality content and supportive community. 5 stars!",
   },
   {
     image: "https://example.com/avatar5.png",
     name: "Olivia Miller",
     userName: "@olivia_miller",
     comment:
-      "AcademiaX has been a game-changer for me. The hands-on projects and real-world examples have helped me gain practical skills that I can apply right away.",
+      "CodeX has been a game-changer for me. The hands-on projects and real-world examples have helped me gain practical skills that I can apply right away.",
   },
 ];
 
@@ -59,7 +59,7 @@ export const Testimonials = () => {
         Discover Why
         <span> People Love </span>
         <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
-          AcademiaX
+          CodeX
         </span>
       </h2>
 

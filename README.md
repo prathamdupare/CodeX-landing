@@ -1,6 +1,6 @@
 # Education Platform Landing Page
 
-Welcome to the landing page repository for AcademiaX full-stack education platform project! This landing page serves as the initial entry point for visitors and provides essential information about the platform.
+Welcome to the landing page repository for CodeX full-stack education platform project! This landing page serves as the initial entry point for visitors and provides essential information about the platform.
 
 ## Overview
 
