@@ -29,10 +29,15 @@ export const Hero = () => {
         </p>
 
         <div className="space-y-4 md:space-y-0 md:space-x-4">
-          <Button className="w-full md:w-1/3">Get Started</Button>
+          <a
+            href="https://courses.codex.fosspage.com/"
+            rel="noopener noreferrer"
+          >
+            <Button className="w-full md:w-1/3">Get Started</Button>
+          </a>
 
           <a
-            href="https://github.com/leoMirandaa/shadcn-landing-page.git"
+            href="https://courses.codex.fosspage.com/"
             target="_blank"
             className={`w-full md:w-1/3 ${buttonVariants({
               variant: "outline",
