@@ -122,7 +122,7 @@ export const Navbar = () => {
 
           <div className="hidden md:flex gap-2">
             <a
-              href="https://github.com/leoMirandaa/shadcn-landing-page.git"
+              href="https://github.com/prathamdupare/codeX"
               target="_blank"
               className={`border ${buttonVariants({ variant: "secondary" })}`}
             >
