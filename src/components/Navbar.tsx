@@ -41,6 +41,10 @@ const routeList: RouteProps[] = [
     label: "About",
   },
   {
+    href: "https://courses.codex.fosspage.com/blog",
+    label: "Blog",
+  },
+  {
     href: "#faq",
     label: "FAQ",
   },
