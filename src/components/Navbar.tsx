@@ -25,7 +25,7 @@ interface RouteProps {
 
 const routeList: RouteProps[] = [
   {
-    href: "https://courses.codex.fosspage.com/",
+    href: "https://courses.codex.fosspage.tech/",
     label: "Courses",
   },
   {
@@ -41,7 +41,7 @@ const routeList: RouteProps[] = [
     label: "About",
   },
   {
-    href: "https://courses.codex.fosspage.com/blog",
+    href: "https://courses.codex.fosspage.tech/blog",
     label: "Blog",
   },
   {
